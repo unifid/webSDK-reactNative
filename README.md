@@ -1,11 +1,11 @@
 ## Getting Started SDK
 
 
-UNIFID webSDK allows Verifier to embed UNIFID flow into thier app or website allow the customers to share credentails.
+UNIFID webSDK allows Verifier to embed UNIFID flow into their **app or website** allowing customers to share credentials.
 
 This is a reference implementation of UNIFID webSDK for Reach Native platform. 
 
-For detailed understanding webSDK integration refer to [UNIFID SDK Integration Guide](https://docs.unifid.io)
+For detailed understanding of webSDK integration refer to [UNIFID SDK Integration Guide](https://docs.unifid.io)
 
 ```js
 unifidSDK().onInit({
